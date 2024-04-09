@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KinopoiskAPIAvito</string>
+    <string name="films_and_serials">Фильмы и сериалы</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="no_info">Нет информации</string>
+    <string name="filters">Фильтры</string>
+    <string name="rating">Рейтинг</string>
+    <string name="r0">0+</string>
+    <string name="r6">6+</string>
+    <string name="r12">12+</string>
+    <string name="r16">16+</string>
+    <string name="r18">18+</string>
+    <string name="country">Страна</string>
+    <string name="no_filter"> — </string>
+    <string name="year">Год</string>
+    <string name="by">с</string>
+    <string name="until">по</string>
+    <string name="apply">Применить</string>
+    <string name="discard">Сбросить</string>
+    <string name="actors">Актеры</string>
+    <string name="posters">Постеры</string>
+</resources>
