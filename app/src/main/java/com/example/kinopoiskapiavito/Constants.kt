@@ -9,8 +9,8 @@ import java.time.LocalDate
 object Constants {
     private val BASE_URL = "https://api.kinopoisk.dev/v1.4/"
     private val BASE_URL_add = "https://api.kinopoisk.dev/v1/"
-    //TODO: hide
-    val X_API_KEY = "WF76VQQ-HQB4P5G-JFJH8DF-CRKDP1M"
+    //TODO(заполнить X_API_KEY)
+    val X_API_KEY = "--|--|--|--"
     val accept = "application/json"
 
     val networkService: NetworkService
